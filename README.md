@@ -23,7 +23,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Clone the repository
 
 ```bash
-git clone https://github.com/EsyWin/skywalker/
+git clone https://github.com/mael-bomane/skywalker/
 ```
 
 ### Run
